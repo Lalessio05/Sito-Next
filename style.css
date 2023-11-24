@@ -1,0 +1,30 @@
+body {
+    background-color: #F2F2F2;
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+}
+
+.all-sidebar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
+    height: 100vh;
+    background-color: #A0C3D9;
+}
+
+.all-sidebar .title-sidebar img {
+    height: 3rem;
+    margin: 1rem;
+}
+
+.all-sidebar .menu .selection .selection-point {
+    display: flex;
+    justify-content: center;
+} 
+
+.all-sidebar .menu .selection .selection-point ul {
+    padding-left: 1rem;
+    margin: 0;
+}
