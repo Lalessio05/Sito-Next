@@ -128,3 +128,13 @@ body {
 	padding: 1.5rem;
 	margin-left: 20%;
 }
+
+#Copyright {
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	font-weight: 600;
+	color: #fff;
+	text-align: center;
+}
